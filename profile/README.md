@@ -18,4 +18,3 @@ A simple daily check-in app for people living alone. Tap "I'm OK" once a day —
 - **$2.99/mo** — 10 contacts, SMS, family dashboard
 
 Built by [Sachin Anand](https://github.com/sachinanand) · [WebMobi](https://webmobi.com) · [NexaLink](https://nexalink.co)
-# .github
